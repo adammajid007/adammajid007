@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**adammajid007/adammajid007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Adam.
 
-Here are some ideas to get you started:
+I'm an aspiring software developer with a passion for programming and building projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I currently code in **Python** and hope to expand my knowledge by learning more programming languages in the future.
+
+I’ve already built several Python projects and really enjoyed the process of creating them.
+
+### 🎯 Current Goals
+- Earn a software developer apprenticeship
+- Improve my problem-solving skills
+- Build more projects to expand my programming knowledge
